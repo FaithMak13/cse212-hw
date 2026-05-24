@@ -1,0 +1,244 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+
+
+        {
+            "name": "Programming with Data Structures Project",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-sandbox-Sandbox",
+            "program": "${workspaceFolder}/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/sandbox/Sandbox",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 01: C# Exercise 1 Problem solving",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercise1",
+            "program": "${workspaceFolder}/week01/Exercise1/bin/Debug/net10.0/Exercise1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercise1",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 01: C# Exercise 2 Perfomance Analysis",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercise2",
+            "program": "${workspaceFolder}/week01/Exercise2/bin/Debug/net10.0/Exercise2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercise2",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 01: C# Exercise 3 Dynamic Arrays",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercise3",
+            "program": "${workspaceFolder}/week01/Exercise3/bin/Debug/net10.0/Exercise3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercise3",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 01: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-InterviewQuestions",
+            "program": "${workspaceFolder}/week01/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 02: stacks, queues, code reviews",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Stacks,Queues,CodeReviews",
+            "program": "${workspaceFolder}/week02/Stacks,Queues,CodeReviews/bin/Debug/net10.0/Stacks,Queues,CodeReviews.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Stacks,Queues,CodeReviews",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 02: Finding Defects using tests",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Finding Defects using tests",
+            "program": "${workspaceFolder}/week02/Finding Defects using tests/bin/Debug/net10.0/Finding Defects using tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Finding Defects using tests",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+      {
+            "name": "Week 02: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-InterviewQuestions",
+            "program": "${workspaceFolder}/week02/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 03: Sets",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week03-Sets",
+            "program": "${workspaceFolder}/week03/Sets/bin/Debug/net10.0/Sets.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week03/Sets",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 03: Maps",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week03-Maps",
+            "program": "${workspaceFolder}/week03/Maps/bin/Debug/net10.0/Maps.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week03/Maps",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 03: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week03-InterviewQuestions",
+            "program": "${workspaceFolder}/week03/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week03/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 04: Linked Lists",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week04-LinkedLists",
+            "program": "${workspaceFolder}/week04/LinkedLists/bin/Debug/net10.0/LinkedLists.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week04/LinkedLists",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 04: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week04-InterviewQuestions",
+            "program": "${workspaceFolder}/week04/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week04/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 05: Recursion",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week05-Recursion",
+            "program": "${workspaceFolder}/week05/Recursion/bin/Debug/net10.0/Recursion.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week05/Recursion",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 05: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week05-InterviewQuestions",
+            "program": "${workspaceFolder}/week05/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week05/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 06: Trees",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week06-Trees",
+            "program": "${workspaceFolder}/week06/Trees/bin/Debug/net10.0/Trees.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week06/Trees",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 06: Interview Questions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week06-InterviewQuestions",
+            "program": "${workspaceFolder}/week06/InterviewQuestions/bin/Debug/net10.0/InterviewQuestions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week06/InterviewQuestions",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Week 07: Exercise Conclusion",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week07-ExerciseTracking",
+            "program": "${workspaceFolder}/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week07/ExerciseTracking",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+    ]
+}
