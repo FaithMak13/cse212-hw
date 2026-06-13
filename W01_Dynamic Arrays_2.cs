@@ -1,6 +1,6 @@
 def rotate_list_right(data, amount):
     """
-    Step by step plan:
+    Step-by-step plan:
     1. We need to rotate the list to the right by a certain amount.
     2. Rotating right means:
        - Take the last 'amount' elements
